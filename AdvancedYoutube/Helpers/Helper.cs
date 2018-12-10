@@ -40,7 +40,8 @@ namespace AdvancedYoutube.Helpers
                 size = video.Size,
                 ext = video.Container.GetFileExtension(),
                 quality = video.VideoQuality.ToString(),
-                qualityLabel = video.VideoQualityLabel
+                qualityLabel = video.VideoQualityLabel,
+                type = "video"
             }).ToList();
         }
 
@@ -52,7 +53,9 @@ namespace AdvancedYoutube.Helpers
                 format = audio.Container.GetFileExtension(),
                 formatId = audio.Itag,
                 size = audio.Size,
-                ext = audio.Container.GetFileExtension()
+                ext = audio.Container.GetFileExtension(),
+                type = "audio",
+                qualityLabel = "Audio track only"
             }).ToList();
         }
     }

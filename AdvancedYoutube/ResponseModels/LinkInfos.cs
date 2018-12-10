@@ -22,5 +22,6 @@ namespace AdvancedYoutube.ResponseModels
         public string ext { get; set; }
         public string quality { get; set; }
         public string qualityLabel { get; set; }
+        public string type { get; set; }
     }
 }

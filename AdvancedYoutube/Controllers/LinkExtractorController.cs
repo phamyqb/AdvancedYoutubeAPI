@@ -18,7 +18,7 @@ namespace AdvancedYoutube.Controllers
             _youtubeClient = new YoutubeClient();
         }
 
-        // GET api/LinkExtractor/5
+        // GET api/linkextractor/5
         /// <summary>
         /// Id of Video
         /// </summary>
