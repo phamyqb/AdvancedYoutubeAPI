@@ -1,0 +1,16 @@
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\bin\Debug\netcoreapp2.1\AdvancedYoutube.deps.json
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\bin\Debug\netcoreapp2.1\AdvancedYoutube.runtimeconfig.json
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\bin\Debug\netcoreapp2.1\AdvancedYoutube.runtimeconfig.dev.json
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\bin\Debug\netcoreapp2.1\AdvancedYoutube.dll
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\bin\Debug\netcoreapp2.1\AdvancedYoutube.pdb
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\bin\Debug\netcoreapp2.1\AdvancedYoutube.xml
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.csproj.CoreCompileInputs.cache
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.RazorAssemblyInfo.cache
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.RazorAssemblyInfo.cs
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.AssemblyInfoInputs.cache
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.AssemblyInfo.cs
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.RazorTargetAssemblyInfo.cache
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.dll
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.xml
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.pdb
+C:\Projects\YoutubeAdvancedAPI\AdvancedYoutube\AdvancedYoutube\obj\Debug\netcoreapp2.1\AdvancedYoutube.csprojResolveAssemblyReference.cache

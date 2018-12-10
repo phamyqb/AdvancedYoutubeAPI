@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdvancedYoutube</name>
+    </assembly>
+    <members>
+        <member name="M:AdvancedYoutube.Controllers.LinkExtractorController.GetLinks(System.String)">
+            <summary>
+            Id of Video
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
