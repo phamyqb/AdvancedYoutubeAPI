@@ -9,7 +9,6 @@ namespace AdvancedYoutube.Controllers
 {
     [Produces("application/json")]
     [Route("api/linkextractor")]
-    [ApiController]
     public class LinkExtractorController : ControllerBase
     {
         private readonly YoutubeClient _youtubeClient;
